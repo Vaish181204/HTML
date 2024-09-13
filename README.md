@@ -1,2 +1,1 @@
-# HTML
-Practicing basics 
+# HTML-Practice-Basics
